@@ -1,5 +1,3 @@
-# README
-
 ## Termo de consentimento e Condições de uso do !StarAlien
 
 **Última atualização em:** 09/11/2020
