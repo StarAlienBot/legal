@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 01/09/2021
+* **Última atualização:** 17/09/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -33,9 +33,9 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 > Por favor, note que nós podemos mudar nosso TCLE & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
-**1.1.** Todos os usuários da plataforma do `Discord` tem total liberdade de usar qualquer uma das funções presentes em `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações ou servidores. Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
+**1.1.** Todos os usuários da plataforma do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem total liberdade de usar qualquer uma das funções presentes em `!StarAlien`, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse `TCLE & Privacidade` limita o uso de qualquer comando do mesmo podendo ser banido\(a\) de usar qualquer uma de suas funções, isso também inclui novas funções, algumas cláusulas desse termo também é válida em outras aplicações, servidores e em DM's (Mensagens Diretas). Portanto, ao usar qualquer projeto, você está de acordo com todas as informações presentes nesse termo e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas.
 
-**1.2.** Você assume responsabilidade por qualquer imagem/vídeo/áudio/mídia enviada para mim, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir tais informações para terceiros exceto se violar a cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você poderá ser suspenso de usar a `!StarAlien` ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
+**1.2.** Você assume responsabilidade por qualquer imagem/vídeo/áudio/mídia enviada para `!StarAlien` ou equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você poderá ser suspenso de usar a `!StarAlien` ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
 
 **1.3.** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos. 
 
@@ -45,7 +45,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **2.2.** Ao utilizar quaisquer das funcionalidades de `!StarAlien`, o usuário confirma que leu, entendeu e aceitou o presente TCLE & Privacidade em sua totalidade, sem qualquer modificação. Caso não concorde com TCLE & Privacidade, o usuário não deverá utilizar `!StarAlien` ou qualquer outro projeto.
 
-**2.3.** A equipe de desenvolvimento de `!StarAlien` poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando `!StarAlien` de qualquer forma, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
+**2.3.** A equipe de desenvolvimento de `!StarAlien` poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando `!StarAlien` de qualquer forma ou violou algumas das cláusulas em `TCLE & Privacidade`, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
 
 **2.3.** o Usuário confirma que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos referente a situação.
 
@@ -57,17 +57,17 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **3.3.** O servidor de suporte das aplicações `!StarAlien` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições de usar o `!StarAlien`.
 
-**3.4.** Ofender os desenvolvedores, membros e a equipe do servidor de suporte do `!StarAlien` fará com que você seja banido\(a\) do servidor de suporte e também de usar todas as suas funções, portanto, respeite-os.
+**3.4.** Ofender os desenvolvedores, membros e a equipe do servidor de suporte do `!StarAlien` ou em suas DM's (Mensagens Diretas), fará com que você seja punido\(a\) de acordo com o `TCLE & Privacidade`.
 
-**3.5.** Ofender os desenvolvedores, membros e a equipe do `!StarAlien`, aplicar punições sem nexo em outros servidores impossibilitando que o mesmo usem o `!StarAlien` ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores (caso os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada) e aos usuários que fizeram a ação, com isso os servidores / usuários em questão vão ser adicionados a blacklist do BOT impossibilitando que o `!StarAlien` entre nos servidores ou o uso do mesmo.
+**3.5.** Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem o `!StarAlien` ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores (caso os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada) e aos usuários que realizaram a ação, com isso os servidores/usuários em questão vão ser adicionados a blacklist de qualquer projeto/BOT.
 
-**3.6.** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções do `!StarAlien` e será reportado\(a\) para a equipe do Discord. Fique sempre atento\(a\) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines)
+**3.6.** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções do `!StarAlien` e será reportado\(a\) para a equipe do Discord se possível. Fique sempre atento\(a\) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou o `TCLE & Privacidade`.
 
-**3.7.** `!StarAlien` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW \(not safe for work\).
+**3.7.** `!StarAlien` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL \(not safe for work/not safe for life\).
 
 **3.8.** Abusar de alguns comandos, fará com que você tenha limitações no uso das funções do `!StarAlien`, portanto evite o máximo para não utilizá-lo de forma irregular para evitar também que você seja banido\(a\) de usar todas as suas funções.
 
-**3.9.** Ao usar o `!StarAlien` você concorda que ele é um BOT seguro, não viola os Termos de Serviço do Discord e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao mesmo espalhando asneiras, falácias, boatos ou algo do gênero, a equipe de desenvolvimento pode punir os usuários envolvidos.
+**3.9.** Ao usar o `!StarAlien` você concorda que ele é um BOT seguro, não viola os termos de serviço do [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) e que não vai prejudicar seu servidor, portanto qualquer forma de desconfiança em relação ao mesmo espalhando asneiras, falácias, boatos ou algo do gênero, é contra a `TCLE & Privacidade`.
 
 **3.10.** Ao usar o `!StarAlien` ou qualquer comando do mesmo estará concordando automaticamente com `TCLE & Privacidade`.
 
@@ -79,13 +79,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **3.14.** O nome `!StarAlien` é referente a qualquer aplicação ou desenvolvimento de projeto.
 
-**3.15.** Você não pode usar `!StarAlien` caso não leu o `TCLE & Privacidade` por completo, se houver a persistência em não ler os termos e usar `!StarAlien` você concorda que será banido\(a\) de usar o mesmo e também dos servidores de suporte.
+**3.15.** Você não pode usar `!StarAlien` caso não leu o `TCLE & Privacidade` por completo, se houver a persistência em não ler os termos e usar `!StarAlien` você concorda que violou `TCLE & Privacidade` por má conduta.
 
 **3.16.** Qualquer ato, intenção ou tentativa forçada de derrubar `!StarAlien` por meio de comandos ou bugs é extremamente proibido.
 
 **3.17.** Não podemos ou garantimos que `!StarAlien` vão estar sempre seguros ou livres de erros, portanto caso haja erros cujos quais possam ocasionar danos aos demais envolvidos de forma não intencional, nós não responsabilizamos por tais atos, ao usar `!StarAlien` você isenta o mesmo sobre quaisquer danos que possa ter ocasionado de forma não intencional.
 
-**3.18.** A maioria dos dados só podem ser acessados por `!Ravena👽⃤ - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros (exceto se violar a cláusula `8.5`), informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula. 
+**3.18.** A maioria dos dados só podem ser acessados por `!Ravena👽⃤ - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros (exceto se violar a cláusula `8.5` ou `TCLE & Privacidade`), informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula. 
 
 **3.19.** `!StarAlien` pode criar convites em seus servidores e a criação dos invites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do link criado, ao usar `!StarAlien` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo link que foi criado por `!StarAlien` ou aos demais projetos.
 
@@ -105,7 +105,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **4.7.** Caso seja menor de idade será possível doações por parte de confirmação e acompanhamento do responsável legal.
 
-**4.8.** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como data de nascimento, nome completo, documento de identificação, CPF/NIF para contribuir na fiscalização em relação à doações não autorizadas de menores, as informações devem ser enviada via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
+**4.8.** Você concorda que ao realizar qualquer tipo de doação terá que informar dados reais perante sua pessoa, tais como: `data de nascimento, nome completo, documento de identificação, CPF/NIF` para contribuir na fiscalização em relação à doações não autorizadas de menores. As informações devem ser enviadas via email `666ravena.js@gmail.com` e não via Discord. Você não poderá realizar doações se você for uma pessoa impedida sob as leis de qualquer país em relação ao `TCLE & Privacidade`, incluindo o país onde o usuário é residente ou a partir do qual realizar a doação.
 
 ## 5. BANCO DE DADOS E ARMAZENAMENTOS
 
@@ -115,8 +115,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 > * 5.2.1. Perda de dados caso o `!StarAlien` deixe o servidor.
 > * 5.2.2. Perda de dados em caso de problemas com a host ou banco de dados do `!StarAlien`.
-> * 5.2.3. Perda de dados caso ocorra atualizações profundas no `!StarAlien`.
-> * 5.2.4. Perda de dados e informações caso ocorram atualização no Node.js.
+> * 5.2.3. Perda de dados caso ocorra atualizações no `!StarAlien`.
+> * 5.2.4. Perda de dados e informações caso ocorram atualização no Node.js/Discord.js.
 > * 5.2.5. Perda de dados e informações caso ocorram manutenções no `!StarAlien`.
 
 ## 6. INDISPONIBILIDADE
@@ -125,7 +125,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **6.2.** Anúncios, avisos e demais afins são divulgados no servidor de suporte do `!StarAlien` conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
-**6.3.** Caso note que algo não esteja funcionando corretamente. reporte para a equipe de desenvolvimento para que seja possível a solução de seu problema.
+**6.3.** Caso note que algo não esteja funcionando corretamente, reporte para a equipe de desenvolvimento para que seja possível a solução de seu problema.
 
 **6.4.** Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
@@ -148,7 +148,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.5.** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
 
-**8.6.** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário. 
+**8.6.** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
 ## 9. DESBANIMENTO
 
@@ -162,7 +162,11 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## 10. INDENIZAÇÃO
 
-**10.1.** Você concorda em isentar e indenizar `!StarAlien`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos Termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
+**10.1.** Você concorda em isentar e indenizar `!StarAlien`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
+
+## 11. Termos jurídicos gerais
+
+**11.1.** A equipe de desenvolvimento/`!Ravena👽⃤ - 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine e dos [Termos e condições de uso do Ovni\#7487](https://docs.ovnibot.com.br/terms). O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o !StarAlien ou o seu uso da obra.
 
