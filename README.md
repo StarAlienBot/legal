@@ -150,6 +150,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **8.6.** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
+**8.7.** Não ficar corrigindo erros ortográficos de aplicações/projetos em servidores de terceiros/DM da equipe de desenvolvimento, pois isso pode gerar discussões irrelevantes, use os meios legais que é via servidor de suporte ou formulário.
+
 ## 9. DESBANIMENTO
 
 **9.1.** Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento do `!StarAlien`, através do servidor de suporte ou em seus privados(DM).
