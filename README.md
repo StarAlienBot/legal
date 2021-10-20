@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 19/09/2021
+* **Última atualização:** 20/10/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -48,6 +48,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **2.3.** A equipe de desenvolvimento de `!StarAlien` poderá alterar qualquer parte do TCLE & Privacidade em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando `!StarAlien` de qualquer forma ou violou algumas das cláusulas em `TCLE & Privacidade`, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do TCLE & Privacidade.
 
 **2.3.** o Usuário confirma que ao processar judicialmente a equipe de desenvolvimento de `!StarAlien` sendo que o usuário violou `TCLE & Privacidade` também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos referente a situação.
+
+**2.4.** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
 ## 3. BOT
 
