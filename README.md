@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 20/10/2021
+* **Última atualização:** 25/10/2021
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -97,7 +97,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **4.3.** Alguns benefícios são por tempo limitado. Após o término dos benefícios todos os recursos premium no servidor/bot, serão removidos.
 
-**4.4.** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelos responsáveis do projeto que é listado no [servidor de suporte](https://discord.gg/pAMsAaG) ou via email `666ravena.js@gmail.com`, caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via email, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
+**4.4.** Só serão concedidos os benefícios dos recursos premium do `!StarAlien - PREMIUM`, caso utilize os métodos de doações informados pelos responsáveis do projeto que é listado no [servidor de suporte](https://discord.gg/pAMsAaG), caso utilize outros métodos de doações não descritos nos comandos, servidor de suporte ou via email, os mesmos não serão creditados e não responsabilizamos por tais doações. Os benefícios não são ativados instantaneamente é de forma manual e não há tempo definido sobre entregas dos benefícios em relação à doações.
 
 **4.5.** Ao realizar doações você autoriza e concorda que não há reembolso em doações.
 
@@ -157,6 +157,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **8.8.** Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos/`!StarAlien` em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmo, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persistia em continuar, caso continue será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
 **8.9.** Você concorda que `!Ravena👽⃤ - 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender, caso seja avisado que a punição não será removida, não será possível a remoção da punição. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
+
+**8.10.** Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido.
 
 ## 9. DESBANIMENTO
 
