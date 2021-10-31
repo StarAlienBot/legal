@@ -6,7 +6,7 @@ description: É importante ler o TCLE & Privacidade antes de usar o !StarAlien
 
 ## Termos de Consentimento Livre e Esclarecido ("TCLE") & Privacidade.
 
-* **Última atualização:** 29/10/2021 
+* **Última atualização:** 31/10/2021 
 * **Efetividade:** 10/04/2020
 
 ## 1. DEFINIÇÕES E PRIVACIDADE
@@ -38,6 +38,8 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 **1.2** Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, email, IP, avatar, servidores, mensagens referente ao uso de comandos, mídia e outras coisas (mas nós não iremos distribuir as informações para terceiros exceto se violar `TCLE & Privacidade`/cláusula `8.5`), você não irá difamar/prejudicar a imagem de `!StarAlien`, `!Ravena👽⃤ - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos, e que você está de acordo com tudo que está no TCLE & Privacidade.
 
 **1.3** Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por estes Termos, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido nestes Termos. 
+
+**1.4** Os dados são coletados voluntariamente com a permissão do usuários, permissão essa cuja qual deu quando usou qualquer aplicação ou projeto e assim aceitou automaticamente o `TCLE & Privacidade`.
 
 ## 2. ACEITAÇÃO E MODIFICAÇÃO DO TCLE & PRIVACIDADE
 
