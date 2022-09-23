@@ -96,7 +96,7 @@ Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar do sistema de
 **3.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções de `StarAlienBot` e será reportado(a) para a equipe do Discord se possível. Fique sempre atento(a) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou esse documento.
 
 {% hint style="warning" %}
-Cláusula **3.6**, É válido pra qualquer suspeita no uso de selfbot, venda de contas e servidores por valores monetários, contas de usuário automatizadas (auto-bots), macros/plugins, uso de avatar NSFW e afins
+Cláusula **3.6**, é válido pra qualquer suspeita no uso de selfbot, venda de contas e servidores com membros por valores monetários, contas de usuário automatizadas (auto-bots), macros/plugins, uso de avatar NSFW e afins
 {% endhint %}
 
 **3.7** `StarAlienBot` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL (not safe for work/not safe for life).
