@@ -27,9 +27,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**[**Letras azuis, verdes ou roxas**](https://guides.github.com/features/mastering-markdown/)**"**: Letras azuis, verdes ou roxas são hiperligação/hiperlink ou URL.
 
-{% hint style="warning" %}
-Por favor, note que nós podemos mudar nosso Termos de Serviço & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
-{% endhint %}
+> [AVISO] Por favor, note que nós podemos mudar nosso Termos de Serviço & Privacidade, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
 **1.1** Todos os usuários da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem direito de usar qualquer uma das funções presentes em aplicações ou projetos, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse documento limita o uso de qualquer aplicação/projeto podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, as cláusulas desse documento também são válidas em outras aplicações, servidores e em DM's (Mensagens Diretas) da equipe. Portanto, ao usar qualquer projeto ou aplicação, você está de acordo com todas as informações presentes nos termos e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas. 
 
@@ -47,9 +45,7 @@ Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de nã
 
 **1.6** Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlienBot` para conseguir usar a maioria das funções de projetos ou aplicações.
 
-{% hint style="warning" %}
-Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar do sistema de verificação resulta em punição.
-{% endhint %}
+> [AVISO] Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar do sistema de verificação resulta em punição.
 
 **1.7** Você concorda que se não estiver registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlienBot` referente a cláusula `1.6` só poderá usar apenas 10% de projetos ou aplicações, para usar 100% é necessário seguir os procedimentos da cláusula `1.6`.
 
@@ -89,9 +85,7 @@ Cláusula **1.6**, qualquer intenção, tentativa ou ato de zombar do sistema de
 
 **3.6** Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções de `StarAlienBot` e será reportado(a) para a equipe do Discord se possível. Fique sempre atento(a) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou esse documento.
 
-{% hint style="warning" %}
-Cláusula **3.6**, é válido pra qualquer suspeita no uso de selfbot, venda de contas e servidores com membros por valores monetários, contas de usuário automatizadas (auto-bots), macros/plugins, uso de avatar NSFW e afins
-{% endhint %}
+> [AVISO] Cláusula **3.6**, é válido pra qualquer suspeita no uso de selfbot, venda de contas e servidores com membros por valores monetários, contas de usuário automatizadas (auto-bots), macros/plugins, uso de avatar NSFW e afins
 
 **3.7** `StarAlienBot` não tem/terá nenhuma atrelagem a conteúdos pornográficos +18 NSFW ou NSFL (not safe for work/not safe for life).
 
@@ -191,9 +185,7 @@ Cláusula **3.6**, é válido pra qualquer suspeita no uso de selfbot, venda de 
 
 **8.5** Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
 
-{% hint style="info" %}
-Cláusula **8.5**, as informações que vão ser compartilhadas são relacionadas a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não serão compartilhados de forma pública.
-{% endhint %}
+> [INFO] Cláusula **8.5**, as informações que vão ser compartilhadas são relacionadas a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não serão compartilhados de forma pública.
 
 **8.6** Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
@@ -217,9 +209,7 @@ Cláusula **8.5**, as informações que vão ser compartilhadas são relacionada
 
 **9.2** Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
-{% hint style="info" %}
-Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento do erro você deve fazer uma postagem pública em seus servidores marcando `@everyone` e informado o motivo, se futuramente a postagem for removida, o banimento voltará.
-{% endhint %}
+> [INFO] Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento do erro você deve fazer uma postagem pública em seus servidores marcando `@everyone` e informado o motivo, se futuramente a postagem for removida, o banimento voltará.
 
 **9.3** O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores ou das aplicações.
 
@@ -257,6 +247,4 @@ Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento d
 
 **13.1** Não serão anonimizados os dados tratados ou compartilhados por força de lei ou ato normativo de qualquer órgão ou agente público, da União, Estados, DF, Municípios, de quaisquer dos Poderes Executivo, Legislativo ou Judiciário, ou que atenda políticas públicas ou de interesse público. Neste caso, ainda que tais dados possam ser eliminados ou bloqueados pelo controlador, operador ou encarregado, não caberá a estes promover a sua eliminação ou bloqueio junto àqueles a quem tenha compartilhado os dados.
 
-{% hint style="info" %}
-Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o StarAlienBot, projetos e aplicações ou o seu uso da obra.
-{% endhint %}
+> [INFO] Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa o StarAlienBot, projetos e aplicações ou o seu uso da obra.
