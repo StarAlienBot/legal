@@ -5,7 +5,6 @@
 
 A diretrizes da comunidade estabelece as regras para utilização das aplicações e projetos listados em [Termos de Serviço & Privacidade](https://docs.staralienbot.com/termos). Informamos que ao usar projetos e aplicações você estará aceitando as condições apresentadas neste documento. Se você não concorda com as **Diretrizes da comunidade**, não use as aplicações ou projetos. A utilização de projetos ou aplicações entrará em concordância com as cláusulas aqui apresentadas.
 
-> **Warning**<br>
 > Por favor, note que nós podemos mudar nossas **Diretrizes da comunidade**, a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
 ## Ações proibidas
@@ -22,6 +21,5 @@ A diretrizes da comunidade estabelece as regras para utilização das aplicaçõ
 10. Plagiar a StarAlien. Você pode se inspirar em funcionalidades dela, mas copiar quase identicamente ela é proibido.
 11. Acobertar a evasão de ban (usuário banido que criou outra conta para usar a StarAlien) faz com que você seja banido junto com o meliante. Bem como não denunciar e ser conivente com quebras de regra.
 
-> **Note**<br>
 > Este documento é uma adaptação dos Termos de Serviço do Google App Engine. O trabalho original foi modificado. Não possui vínculo e não patrocina ou endossa StarAlien, projetos e aplicações ou o seu uso da obra.
 
