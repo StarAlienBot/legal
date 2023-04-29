@@ -17,7 +17,7 @@ A diretrizes da comunidade estabelece as regras para utilização das aplicaçõ
 6. Ofender, xingar ou sexualizar a StarAlien. A regra inclui o ódio gratuito, mesmo que disfarçado de crítica, xingamentos pesados como “puta”, “vagabunda” e relacionados.
 7. Utilizar funcionalidades da StarAlien para quebrar as diretrizes da plataforma.
 8. Tentar se passar pela StarAlien ou se passar por alguém da equipe dela.
-9. Tentar evadir ou bular punições. Evadir o seu ban (criar outra conta para usar a StarAlien) fará com que você não seja mais desbanido.
+9. Tentar evadir ou burlar punições. Evadir o seu ban, criar outra conta para usar a StarAlien fará com que você não seja mais desbanido.
 10. Plagiar a StarAlien. Você pode se inspirar em funcionalidades dela, mas copiar quase identicamente ela é proibido.
 11. Acobertar a evasão de ban (usuário banido que criou outra conta para usar a StarAlien) faz com que você seja banido junto com o meliante. Bem como não denunciar e ser conivente com quebras de regra.
 
