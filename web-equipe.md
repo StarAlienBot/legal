@@ -7,9 +7,7 @@ Nossas **Diretrizes da Staff** asseguram que todos se sintam incluídos, mas nã
 \
 Estas diretrizes explicam o que é e o que não é permitido na conduta da Staff referente a projetos e aplicações. Todos devem seguir essas regras. As regras se aplicam a todas as partes da plataforma, projetos e aplicações.
 
-{% hint style="warning" %}
-Por favor, note que nós podemos mudar nossa **Diretrizes da Staff,** a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
-{% endhint %}
+> Por favor, note que nós podemos mudar nossa **Diretrizes da Staff,** a qualquer momento, e no mesmo, é sua a responsabilidade manter-se atualizado e aderir às políticas aqui postadas.
 
 ### ⚖️ Art. 1º STAFF
 
