@@ -173,7 +173,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 8º PUNIÇÕES
 
-`8.1` ❱ As punições ocorrerão conforme a gravidade da infração. A equipe de desenvolvimento determinará a melhor forma de punir cada usuário conforme o descumprimento de uma das cláusulas desse documento.
+`8.1` ❱ As punições ocorrerão conforme a gravidade da infração. A equipe de `StarAlienBot` determinará a melhor forma de punir cada usuário conforme o descumprimento de uma das cláusulas desse documento.
 
 `8.2` ❱ A punição, poderá ocorrer também de forma automática conforme a movimentação involuntária do usuário seja ela temporário ou permanente podendo sofrer punições no `StarAlienBot` forma parcial e/ou total em uso de suas funções.
 
