@@ -31,15 +31,15 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `1.1` ❱ Todos os usuários da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) tem direito de usar qualquer uma das funções presentes em aplicações ou projetos, porém vale ressaltar que qualquer abuso ou descumprimento de alguma das cláusulas desse documento limita o uso de qualquer aplicação/projeto podendo ser banido(a) de usar qualquer uma de suas funções, isso também inclui novas funções, as cláusulas desse documento também são válidas em outras aplicações, servidores e em DM's (Mensagens Diretas) da equipe. Portanto, ao usar qualquer projeto ou aplicação, você está de acordo com todas as informações presentes nos termos e aceitando as devidas punições que ocorrerá em caso de descumprimento das mesmas. 
 
-`1.2` ❱ Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de desenvolvimento, nós iremos coletar informações como seu ID, username, e-mail, IP, avatar, servidores, mensagens referente ao uso de comandos e mídias, **nós não iremos distribuir as informações para terceiros**, você não irá difamar/prejudicar a imagem de `StarAlienBot`, `!RavenaStar👽 - 367893062812434432`, equipe de desenvolvimento ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos.
+`1.2` ❱ Você assume responsabilidade por qualquer imagem, vídeo, áudio e mídia enviada para projetos, aplicações e equipe de `StarAlienBot`, nós iremos coletar informações como seu ID, username, e-mail, IP, avatar, servidores, mensagens referente ao uso de comandos e mídias, **nós não iremos distribuir as informações para terceiros**, você não irá difamar/prejudicar a imagem de `StarAlienBot`, `!RavenaStar👽 - 367893062812434432`, equipe de `StarAlienBot` ou de qualquer outro projeto, você será suspenso de usar as aplicações ou qualquer outro projeto por quaisquer motivos, você não poderá recuperar dados caso sejam perdidos.
 
 `1.3` ❱ Você concorda em não (e não tentar) (i) usar os projetos para qualquer uso ou propósito que não seja expressamente permitido por este documento, ou (ii) copiar, adaptar, modificar, preparar trabalhos derivados com base em, distribuir, licenciar, vender, transferir, exibir publicamente, executar publicamente, transmitir ou de outra forma explorar o projeto, ou qualquer parte do mesmo, exceto conforme expressamente permitido no mesmo.
 
 `1.4` ❱ Os dados são coletados automaticamente ou voluntariamente com a permissão do usuário, permissão essa cujo qual deu quando usou qualquer aplicação ou projeto. Ao usar quaisquer projetos ou aplicações você esta incluso nas normas desse documento.
 
-`1.5` ❱ `!RavenaStar👽 - 367893062812434432` confirma que não vai adulterar nenhum dos dados referente a aceitação dos termos/`Termos de Serviço & Privacidade`, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com esse documento e com isso serão adicionados na blocklist de projetos e aplicações.
+`1.5` ❱ `!RavenaStar👽 - 367893062812434432` confirma que não vai adulterar nenhum dos dados referente a aceitação dos termos deste documento, porém vale ressaltar que se violar alguma das cláusulas sem ao menos ter usado projetos ou aplicações, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com esse documento e com isso serão adicionados na blocklist de projetos e aplicações.
 
-> Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !RavenaStar👽 - 367893062812434432, equipe de desenvolvimento, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
+> Cláusula **1.5,** é referente a má conduta, os usuários tem o direito de não usar nenhum dos projetos ou aplicações porém devem respeitar a imagem/reputação de !RavenaStar👽 - 367893062812434432, equipe de `StarAlienBot`, projetos ou aplicações sem difamação, perseguição, discussões de qualquer vertente antiética ou sem finalidade positiva, montar uma "panelinha" e pedir que um grupo de usuários fiquem atacando, comportamento tóxico, ameaças, calúnia, injúria e afins.
 
 `1.6` ❱ Você concorda em permanecer registrado no [servidor de suporte](https://discord.gg/pAMsAaG) de `StarAlienBot` para conseguir usar a maioria das funções de projetos ou aplicações.
 
@@ -55,15 +55,17 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `1.11` ❱ Esse documento é essencial para manter um boa conduta em relação ao uso de aplicações e projetos sendo algo pró-ativo e não reativo, a maioria dos serviços na web tem termos e quando as utilizam os usuários automaticamente ficam sujeitos aos termos do serviço que usou, o diferencial de nossas aplicações é que elas avisam sobre a aceitação dos termos de uma forma intuitiva e visível. Caso queira contestar a aceitação dos termos basta ler a cláusula `1.8`, **ao fazer os procedimentos para evitar o uso de aplicações/projetos e aceitar os termos por "engano" adicionaremos você na blocklist**.
 
+`1.12` ❱ Algumas das aplicações ou projetos são registradas internacionalmente em [Registro de Obras](https://www.registrodeobras.com)
+
 ## ⚖️ Art. 2º ACEITAÇÃO E MODIFICAÇÃO DOS TERMOS DE SERVIÇO & PRIVACIDADE
 
 `2.1` ❱ Ao usar qualquer projeto ou aplicação, você concorda (i) que tem 13 anos de idade ou mais, (ii) se você for maior de idade em sua jurisdição ou mais, que leu, entendeu e aceita estar vinculado a esse documento, e (iii) se você tiver entre 13 anos e a maioridade em sua jurisdição, que seu responsável legal revisou e concorda com este documento.
 
 `2.2` ❱ Ao utilizar quaisquer das funcionalidades de projetos ou aplicações, o usuário confirma que leu, entendeu e aceitou o presente documento em sua totalidade. Caso não concorde com esse documento, o usuário não deverá utilizar projetos ou aplicações.
 
-`2.3` ❱ A equipe de desenvolvimento de projetos ou aplicações poderá alterar qualquer parte desse documento em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando projetos ou aplicações de qualquer forma ou violou algumas das cláusulas desse documento, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do documento.
+`2.3` ❱ A equipe de `StarAlienBot` de projetos ou aplicações poderá alterar qualquer parte desse documento em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando projetos ou aplicações de qualquer forma ou violou algumas das cláusulas desse documento, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do documento.
 
-`2.4` ❱ O usuário entende e concorda que ao processar judicialmente a equipe de desenvolvimento sendo que o usuário violou esse documento também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
+`2.4` ❱ O usuário entende e concorda que ao processar judicialmente a equipe de `StarAlienBot` sendo que o usuário violou esse documento também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
 
 `2.5` ❱ O usuário entende e concorda que o uso dos projetos ou aplicações é por sua conta e risco e que são fornecidos "como estão" e "como disponíveis".
 
@@ -73,13 +75,13 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `3.1` ❱ Qualquer ato relacionado a difamação, xingamentos e outros afim de prejudicar a imagem de `StarAlienBot` são expressamente proibidos, lembre-se que `StarAlienBot` é um BOT. Nenhum usuário tem obrigação de usar ou adicionar `StarAlienBot` em seus servidores, portanto utiliza-lo de forma desrespeitosa fará com que você seja banido(a) de usar todas as suas funções.
 
-`3.2` ❱ Alguns comandos são de uso exclusivo de desenvolvedores e a equipe do servidor de suporte de `StarAlienBot`, a tentativa forçada de tais comandos fará com que você seja banido(a) de usar todas as suas funções. Caso note bugs ao executar comandos em `StarAlienBot`, reporte para a equipe de desenvolvimento mais rápido possível, não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o BOT.
+`3.2` ❱ Alguns comandos são de uso exclusivo de desenvolvedores e a equipe do servidor de suporte de `StarAlienBot`, a tentativa forçada de tais comandos fará com que você seja banido(a) de usar todas as suas funções. Caso note bugs ao executar comandos em `StarAlienBot`, reporte para a equipe de `StarAlienBot` mais rápido possível, não fique abusando para receber vantagens acima de outros usuários de forma desonesta ou usar para ficar derrubando o BOT.
 
 `3.3` ❱ O servidor de suporte das aplicações `StarAlienBot` foi criado com o intuito de sanar dúvidas sobre suas funções, reportar bugs, dar sugestões e acompanhar suas atualizações e novidades. As regras do servidor também devem ser acatadas para evitar punições dentro do servidor e também punições em projetos ou aplicações.
 
 `3.4` ❱ Ofender os desenvolvedores, membros e a equipe do servidor de suporte de `StarAlienBot` ou em suas DM's (Mensagens Diretas), fará com que você seja punido(a) de acordo com esse documento.
 
-`3.5` ❱ Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de desenvolvimento usem `StarAlienBot`, manifestar-se diante a situação ou algo do gênero. A equipe de desenvolvimento podem punir tanto os Donos dos servidores ("se os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada") e aos usuários que realizaram a ação, com isso os servidores/usuários em questão serão adicionados na blocklist de projetos e aplicações.
+`3.5` ❱ Aplicar punições sem nexo em outros servidores impossibilitando que a equipe de `StarAlienBot` usem `StarAlienBot`, manifestar-se diante a situação ou algo do gênero. A equipe de `StarAlienBot` podem punir tanto os Donos dos servidores ("se os donos tiverem algum envolvimento ou ciência da ação cometida pelo usuário e não fazer nada") e aos usuários que realizaram a ação, com isso os servidores/usuários em questão serão adicionados na blocklist de projetos e aplicações.
 
 `3.6` ❱ Qualquer ato de violação dos termos do `Discord` é proibido dentro da plataforma. Você terá sua conta banida de usar todas as funções de `StarAlienBot` e será reportado(a) para a equipe do Discord se possível. Fique sempre atento(a) aos Termos de Serviço: [https://discord.com/terms](https://discord.com/terms) e Diretrizes da Comunidade: [https://discord.com/guidelines](https://discord.com/guidelines). Violando os termos da plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord), será considerado para todos os fins e efeitos de direito, que o mesmo violou esse documento.
 
@@ -107,7 +109,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `3.17` ❱ A maioria dos dados só podem ser acessados por `!RavenaStar👽 - 367893062812434432`, que concordou em não compartilhar, vender e/ou distribuir nenhum dos dados armazenados no banco de dados com terceiros, informações cujas quais não são armazenadas no banco de dados não será incluso nessa cláusula já que são informações voláteis.
 
-`3.18` ❱ `StarAlienBot` pode criar convites em seus servidores, a criação desses convites só é possível pela equipe de desenvolvimento e somente a equipe vai poder entrar através do convite criado, ao usar `StarAlienBot` você concorda automaticamente com tudo que foi informado autorizando a equipe de desenvolvimento entrar pelo convite gerado por `StarAlienBot` ou aos demais projetos.
+`3.18` ❱ `StarAlienBot` pode criar convites em seus servidores, a criação desses convites só é possível pela equipe de `StarAlienBot` e somente a equipe vai poder entrar através do convite criado, ao usar `StarAlienBot` você concorda automaticamente com tudo que foi informado autorizando a equipe de `StarAlienBot` entrar pelo convite gerado por `StarAlienBot` ou aos demais projetos.
 
 ## ⚖️ Art. 4º RECURSOS PREMIUM & POLÍTICA DE DOAÇÃO
 
@@ -153,11 +155,11 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 6º INDISPONIBILIDADE
 
-`6.1` ❱ Podem ocorrer determinadas indisponibilidades em projetos ou aplicações fazendo que os mesmos não funcionem corretamente e/ou fiquem offline em seu servidor. A equipe de desenvolvimento não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso.
+`6.1` ❱ Podem ocorrer determinadas indisponibilidades em projetos ou aplicações fazendo que os mesmos não funcionem corretamente e/ou fiquem offline em seu servidor. A equipe de `StarAlienBot` não se responsabiliza em caso da não contabilização de dados ou indisponibilidade do uso.
 
 `6.2` ❱ Anúncios, avisos e demais afins são divulgados no servidor de suporte do `StarAlienBot` conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
-`6.3` ❱ Caso note que algo não esteja funcionando corretamente, reporte para a equipe de desenvolvimento para que seja possível a solução de seu problema.
+`6.3` ❱ Caso note que algo não esteja funcionando corretamente, reporte para a equipe de `StarAlienBot` para que seja possível a solução de seu problema.
 
 `6.4` ❱ Em casos de manutenção pode ocorrer vários imprevistos/erros, não responsabilizamos por esses tais erros, conforme descrito na cláusula `6.2`. É obrigatório cada usuário ficar ciente das devidas informações.
 
@@ -169,7 +171,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `7.2` ❱ Não nós responsabilizamos caso `StarAlienBot` não consiga executar tais funções por falta de permissões. Portanto certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
 
-`7.3` ❱ Caso queira ajudar a equipe de desenvolvimento em relação aos projetos/`StarAlienBot` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia no [servidor de suporte](https://discord.gg/pAMsAaG).
+`7.3` ❱ Caso queira ajudar a equipe de `StarAlienBot` em relação aos projetos/`StarAlienBot` sob denúncias de erros terá todo o direito, portanto denúncias de erros em servidores de terceiros ou via DM's(Mensagens Diretas) é proibido, exceto se o erro for muito grave de uma forma que impeça o funcionamento total do comando ou bot, caso contrário terá que realizar a denúncia no [servidor de suporte](https://discord.gg/pAMsAaG).
 
 ## ⚖️ Art. 8º PUNIÇÕES
 
@@ -179,23 +181,23 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `8.3` ❱ É feita análise holística em relação ao contexto e a situação de cada usuário antes de aplicar a punição, isso é, quando elas são realizadas manualmente.
 
-`8.4` ❱ Se houver violação dos termos para fins investigativos a equipe de desenvolvimento terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como: `(a) Conversas cujas quais confirma que o usuário violou esse documento. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de desenvolvimento ou de projetos e aplicações. (c) Má conduta e afins.`
+`8.4` ❱ Se houver violação dos termos para fins investigativos a equipe de `StarAlienBot` terá liberdade de extrair informações sensíveis referente a situação, ao violar os termos você concorda e autoriza o uso e extração de informações sensíveis tais como: `(a) Conversas cujas quais confirma que o usuário violou esse documento. (b) Atos de injustiças, falácias, difamação, mentiras referente a reputação da equipe de `StarAlienBot` ou de projetos e aplicações. (c) Má conduta e afins.`
 
 `8.5` ❱ Ao violar os termos você concorda e autoriza compartilhar as informações da cláusula `8.4` ao público para que outros usuários fiquem cientes da situação e não sejam lesados por tais atos.
 
 > Cláusula **8.5**, as informações que vão ser compartilhadas são relacionadas a má conduta do usuário na plataforma [Discord, Inc.](https://pt.wikipedia.org/wiki/Discord) referente aos projetos ou aplicações, os dados sensíveis como endereço de e-mail, IP e afins não serão compartilhados de forma pública.
 
-`8.6` ❱ Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de desenvolvimento são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
+`8.6` ❱ Não será listado todos os tipos de atos ou punições que vão ser aplicadas nos usuários nesse documento, devemos ressaltar que algumas das punições ou ações tomadas pela equipe de `StarAlienBot` são situacionais referente ao tipo de violação cometida pelo usuário, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com essa cláusula sob atos/punições situacionais por má conduta ou quebra de termos.
 
-`8.7` ❱ Não fiquem corrigindo erros ortográficos de aplicações e projetos em servidores de terceiros/DM da equipe de desenvolvimento, pois isso pode gerar discussões irrelevantes e atrapalhar outras prioridades da equipe, use os meios legais para reportar tais erros que é no [servidor de suporte](https://discord.gg/pAMsAaG), a persistência do mesmo haverá punições, use o bom senso.
+`8.7` ❱ Não fiquem corrigindo erros ortográficos de aplicações e projetos em servidores de terceiros/DM da equipe de `StarAlienBot`, pois isso pode gerar discussões irrelevantes e atrapalhar outras prioridades da equipe, use os meios legais para reportar tais erros que é no [servidor de suporte](https://discord.gg/pAMsAaG), a persistência do mesmo haverá punições, use o bom senso.
 
-`8.8` ❱ Não dê sugestões, opiniões ou indução do que a equipe de desenvolvimento deve fazer ou não referente aos projetos ou aplicações em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmos, pois se nunca usou ou não entende o foco principal da equipe de desenvolvimento não persista em continuar, caso persista haverá punição.
+`8.8` ❱ Não dê sugestões, opiniões ou indução do que a equipe de `StarAlienBot` deve fazer ou não referente aos projetos ou aplicações em servidores de terceiros ou nas DM's(Mensagens Diretas) sem nunca ter usado os mesmos, pois se nunca usou ou não entende o foco principal da equipe de `StarAlienBot` não persista em continuar, caso persista haverá punição.
 
-`8.9` ❱ Você concorda que `!RavenaStar👽- 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender conforme esse documento, se a equipe informar que não há como remover a punição, não persista. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
+`8.9` ❱ Você concorda que `!RavenaStar👽- 367893062812434432` ou a equipe de `StarAlienBot` podem punir os usuários como bem entender conforme esse documento, se a equipe informar que não há como remover a punição, não persista. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
 `8.10` ❱ Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear, ameaçar e controlar pessoas. Se houver alguma tentativa de **doxing** em contas terceirizadas ou de familiares o qual eu utilizo, o usuário em questão será punido. A legalidade do doxxing depende de como as informações são obtidas e do resultado do ataque.
 
-`8.11` ❱ Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
+`8.11` ❱ Qualquer **violação do segredo/sigilo profissional** referente a equipe de `StarAlienBot` de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
 `8.12` ❱ É proibido discussões de qualquer vertente antiética ou sem finalidade positiva em relação aos projetos e aplicações, caso contrario haverá punição.
 
@@ -203,7 +205,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 9º DESBANIMENTO
 
-`9.1` ❱ Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de desenvolvimento, através do [servidor de suporte](https://discord.gg/pAMsAaG) ou em seus privados(DM).
+`9.1` ❱ Você pode recorrer aos pedidos de desbanimento entrando em contato com a equipe de `StarAlienBot`, através do [servidor de suporte](https://discord.gg/pAMsAaG) ou em seus privados(DM).
 
 `9.2` ❱ Alguns pedidos de desbanimentos poderão ser aceitos com um pedido de desculpas e autoconhecimento do erro, porém dependendo da gravidade da infração, você poderá ter seu pedido de desbanimento dificultado ou negado.
 
@@ -215,11 +217,11 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 10º INDENIZAÇÃO
 
-`10.1` ❱ Você concorda em isentar e indenizar `StarAlienBot`, e suas subsidiárias, afiliadas, equipe de desenvolvimento de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
+`10.1` ❱ Você concorda em isentar e indenizar `StarAlienBot`, e suas subsidiárias, afiliadas, equipe de `StarAlienBot` de e contra qualquer reivindicação de terceiros decorrentes ou de qualquer forma relacionada com (a) a sua violação dos termos, (b) o uso dos projetos, (c) violação de leis, normas ou regulamentos em conexão com os projetos, ou (d) o seu conteúdo, incluindo qualquer responsabilidade ou despesa proveniente de reclamações, perdas, danos (diretos e consequenciais), ações judiciais, sentenças, despesas processuais e honorários advocatícios, de qualquer tipo e natureza.
 
 ## ⚖️ Art. 11º TERMOS JURÍDICOS GERAIS
 
-`11.1` ❱ A equipe de desenvolvimento/`!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+`11.1` ❱ A equipe de `StarAlienBot`/`!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 `11.2` ❱ Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes documento, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes documento, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
 
