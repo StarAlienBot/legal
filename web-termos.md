@@ -11,7 +11,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 **"**_**Termos**_**":** Termos de Serviço & Privacidade
 
-**"**_**Documento**_**":** Termos de Serviço & Privacidade e Guidelines/Diretrizes
+**"**_**Documento**_**":** Termos de Serviço & Privacidade, Diretrizes e Política de cookies. 
 
 **"**_**Usuário(s)**_**":** Pessoas que usam quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
