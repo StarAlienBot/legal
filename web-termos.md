@@ -1,6 +1,6 @@
 # Termos de Serviço & Privacidade
 
-* **Última modificação:** 21/12/2022
+* **Última modificação:** 05/05/2023
 * **Criado em:** 10/04/2020
 
 ## ⚖️ Art. 1º DEFINIÇÕES INICIAIS
@@ -193,7 +193,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `8.9` ❱ Você concorda que `!RavenaStar👽- 367893062812434432` ou a equipe de desenvolvimento podem punir os usuários como bem entender conforme esse documento, se a equipe informar que não há como remover a punição, não persista. Punições podem ser aplicadas conforme a conduta do usuários, índole, ética, intenções e dentre outras, também é válido para servidores de terceiros e DM( Mensagens Diretas).
 
-`8.10` ❱ Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear e controlar pessoas. Caso perceba alguma tentativa de **doxing** em contas terceirizadas ou contas de familiares o qual eu utilizo, o usuário em questão será punido. Leia a [LEI Nº 13.709, DE 14 DE AGOSTO DE 2018](https://www.planalto.gov.br/ccivil\_03/\_ato2015-2018/2018/lei/l13709.htm), [Inciso II do Artigo 5 da Constituição Federal de 1988](https://www.jusbrasil.com.br/topicos/10731003/inciso-ii-do-artigo-5-da-constituicao-federal-de-1988).
+`8.10` ❱ Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear, ameaçar e controlar pessoas. Se houver alguma tentativa de **doxing** em contas terceirizadas ou de familiares o qual eu utilizo, o usuário em questão será punido. A legalidade do doxxing depende de como as informações são obtidas e do resultado do ataque.
 
 `8.11` ❱ Qualquer **violação do segredo/sigilo profissional** referente a equipe de desenvolvimento de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
