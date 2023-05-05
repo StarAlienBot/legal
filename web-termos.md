@@ -197,7 +197,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `8.10` ❱ Independentemente da lei, o doxing viola os termos de serviço de muitos sites e, portanto, podem resultar em punição. Isso porque o doxing normalmente é visto como algo antiético e, na maioria da vezes, é realizado com más intenções, a fim de intimidar, chantagear, ameaçar e controlar pessoas. Se houver alguma tentativa de **doxing** em contas terceirizadas ou de familiares o qual eu utilizo, o usuário em questão será punido. A legalidade do doxxing depende de como as informações são obtidas e do resultado do ataque.
 
-`8.11` ❱ Qualquer **violação do segredo/sigilo profissional** referente a equipe de `StarAlienBot` de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
+`8.11` ❱ Qualquer **violação do segredo/sigilo profissional** referente a equipe de `StarAlienBot` não será permitido, leia o [Artigo 153 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10620036/artigo-153-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940) e [Artigo 154 do Decreto Lei nº 2.848 de 07 de Dezembro de 1940](https://www.jusbrasil.com.br/topicos/10619917/artigo-154-do-decreto-lei-n-2848-de-07-de-dezembro-de-1940)[.](https://paste.ec/raw/SUvn0LBw#4v4oRl0dqgvpt3tC2zz5cIG63u065rz6bGVwibT4w9C)
 
 `8.12` ❱ É proibido discussões de qualquer vertente antiética ou sem finalidade positiva em relação aos projetos e aplicações, caso contrario haverá punição.
 
@@ -211,7 +211,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 > Cláusula **9.2**, para o desbanimento ser concretizado com o autoconhecimento do erro você deve fazer uma postagem pública em seus servidores marcando `@everyone` e informado o motivo, se futuramente a postagem for removida, o banimento voltará.
 
-`9.3` ❱ O desbanimento poderá ocorrer também de forma automática conforme a ação dos desenvolvedores ou das aplicações.
+`9.3` ❱ O desbanimento poderá ocorrer também de forma automática conforme a ação da equipe de `StarAlienBot` ou das aplicações.
 
 `9.4` ❱ Ao ser desbanido(a) terá que reconquistar tudo novamente do zero.
 
@@ -221,7 +221,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 11º TERMOS JURÍDICOS GERAIS
 
-`11.1` ❱ A equipe de `StarAlienBot`/`!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
+`11.1` ❱ A equipe de `StarAlienBot` ou `!RavenaStar👽- 367893062812434432` não serão responsáveis por falhar ou atrasar o cumprimento das suas obrigações decorrentes de qualquer condição para além do seu controle razoável, incluindo, mas não limitado a, ação governamental, atos de terrorismo, catástrofes naturais, condições de trabalho, falhas de energia e distúrbios da Internet.
 
 `11.2` ❱ Nenhuma das partes poderá ceder nenhum dos seus direitos ou obrigações destes documento, seja por força de lei ou de outra forma, sem o prévio consentimento por escrito da outra parte (para não ser omisso). Não obstante, qualquer das partes pode atribuir a totalidade dos seus direitos e obrigações ao abrigo destes documento, sem o consentimento da outra parte, a sua filial ou em conexão com uma fusão, aquisição, reorganização societária ou venda de todos ou substancialmente todo o seu ativos não envolvendo um concorrente direto da outra parte.
 
@@ -229,17 +229,17 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 12º POLÍTICA DE PRIVACIDADE
 
-`12.1` ❱ Coletamos o seu endereço IP ou outro identificador único (“Device Identifier”). Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
+`12.1` ❱ Coletamos o seu endereço IP ou outro identificador único (“Device Identifier”). Usamos esse dado para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
 
-`12.2` ❱ Coletamos o seu endereço de e-mail apenas quando você manda algum e-mail de contato para a equipe.
+`12.2` ❱ Coletamos o seu endereço de e-mail apenas quando envia algum e-mail de contato para a equipe de `StarAlienBot`. Usamos esse dado como meio alternativo de comunicação ou contato.
 
 `12.3` ❱ Coletamos mensagens enviadas (“Message content”) referente ao envio de links e domínios. Usamos esses dados para garantir a segurança dos usuários referente ao envio de links e domínios malicioso em servidores Discord.
 
-`12.4` ❱ Coletamos mensagens enviadas (“Message content”) referente ao uso de comandos. Usamos esses dados para monitorar usuários mal-intencionados quando tentam abusar das aplicações.
+`12.4` ❱ Coletamos mensagens enviadas (“Message content”) referente ao uso de comandos. Usamos esse dado para monitorar usuários mal-intencionados quando tentam abusar das aplicações.
 
-`12.5` ❱ Coletamos `ID de sua conta Discord e ID do servidor Discord`. Usamos esses dados para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
+`12.5` ❱ Coletamos `ID de sua conta Discord e ID do servidor Discord`. Usamos esse dado para segurança no acesso e certificar a origem da solicitação em projetos ou aplicações.
 
-`12.6` ❱ Podem ser coletados e processados os dados pessoais por obrigação legal referente ao `Termos de Serviço & Privacidade`.
+`12.6` ❱ Podem ser coletados e processados os dados pessoais por obrigação legal em relação as cláusulas deste documento.
 
 `12.7` ❱ Somente `!RavenaStar👽- 367893062812434432` tem permissão de acessar os dados sensíveis.
 
