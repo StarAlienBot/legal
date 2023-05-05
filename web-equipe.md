@@ -1,7 +1,7 @@
 # Diretrizes da Staff
 
 * **Última atualização:** 09/05/2022
-* **Efetividade:** 09/05/2022
+* **Efetividade:** 10/01/2019
 
 Nossas **Diretrizes da Staff** asseguram que todos se sintam incluídos, mas não às custas de outras pessoas.\
 \
