@@ -7,7 +7,7 @@
 
 As seguintes definições são aplicáveis em conjunto com outros termos definidos neste instrumento:
 
-**"**_**StarAlienBot/Projeto**_**":** Quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
+**"**_**StarAlienBot/Projeto/StarAlien**_**":** Quaisquer aplicações ou projetos de `!RavenaStar👽 - 367893062812434432`.
 
 **"**_**Termos**_**":** Termos de Serviço & Privacidade
 
