@@ -1,6 +1,7 @@
 # Política de cookies & Privacidade
 
 * **Última modificação:** 17/05/2022
+* **Efetividade:** 10/01/2019
 
 ### DEFINIÇÕES INICIAIS
 
