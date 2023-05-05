@@ -63,7 +63,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `2.2` ❱ Ao utilizar quaisquer das funcionalidades de projetos ou aplicações, o usuário confirma que leu, entendeu e aceitou o presente documento em sua totalidade. Caso não concorde com esse documento, o usuário não deverá utilizar projetos ou aplicações.
 
-`2.3` ❱ A equipe de `StarAlienBot` de projetos ou aplicações poderá alterar qualquer parte desse documento em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando projetos ou aplicações de qualquer forma ou violou algumas das cláusulas desse documento, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do documento.
+`2.3` ❱ A equipe de `StarAlienBot` poderá alterar qualquer parte desse documento em boa-fé, mediante notificação aos envolvidos, bem como publicação em seu site e/ou grupo do Discord da versão atualizada. Caso o usuário continue utilizando projetos ou aplicações de qualquer forma ou violou algumas das cláusulas desse documento, será considerado para todos os fins e efeitos de direito, que os envolvidos, concordou com a nova versão do documento.
 
 `2.4` ❱ O usuário entende e concorda que ao processar judicialmente a equipe de `StarAlienBot` sendo que o usuário violou esse documento também será acionado judicialmente pelo [Art. 186](https://www.jusbrasil.com.br/topicos/10718759/artigo-186-da-lei-n-10406-de-10-de-janeiro-de-2002) do Código Civil e os demais artigos quais os direitos humanos vai propor referente a situação.
 
