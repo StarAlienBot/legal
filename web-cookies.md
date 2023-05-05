@@ -1,7 +1,6 @@
 # Política de cookies & Privacidade
 
 * **Última modificação:** 17/05/2022
-* **Criado em:** 17/05/2022
 
 ### DEFINIÇÕES INICIAIS
 
