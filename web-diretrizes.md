@@ -1,6 +1,7 @@
 # Diretrizes da comunidade
 
 * **Última modificação:** 12/03/2023
+* **Efetividade:** 10/01/2019
 
 A diretrizes da comunidade estabelece as regras para utilização das aplicações e projetos listados em [Termos de Serviço & Privacidade](https://staralienbot.com/termos). Informamos que ao usar projetos e aplicações você estará aceitando as condições apresentadas neste documento. Se você não concorda com as **Diretrizes da comunidade**, não use as aplicações ou projetos. A utilização de projetos ou aplicações entrará em concordância com as cláusulas aqui apresentadas.
 
