@@ -1,7 +1,6 @@
 # Termos de Serviço & Privacidade
 
 * **Última modificação:** 05/05/2023
-* **Criado em:** 10/04/2020
 
 ## ⚖️ Art. 1º DEFINIÇÕES INICIAIS
 
