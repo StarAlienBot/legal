@@ -8,3 +8,7 @@
 
 :link: https://staralienbot.com/cookies<br>
   - `[alt]` :link: https://staralienbot.pages.dev/cookies<br>
+---
+
+:link: https://staralienbot.com/equipe<br>
+  - `[alt]` :link: https://staralienbot.pages.dev/equipe<br>
