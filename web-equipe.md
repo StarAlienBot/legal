@@ -11,7 +11,7 @@ Estas diretrizes explicam o que é e o que não é permitido na conduta da Staff
 
 ### ⚖️ Art. 1º STAFF
 
-`1.1` ❱ Ao entrar pra equipe, você aceita automaticamente **Diretrizes da Staff** e às políticas aqui postadas, independentemente de ter lido ou não;\
+`1.1` ❱ Ao entrar pra equipe, você aceita automaticamente as **Diretrizes da Staff** e às políticas aqui postadas, independentemente de ter lido ou não;\
 \
 `1.2` ❱ A Staff de projetos e aplicações não podem divulgar informações privadas da equipe sem a devida permissão, também é válido para usuários que saíram da equipe.\
 \
