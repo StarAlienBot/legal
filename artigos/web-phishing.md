@@ -70,10 +70,11 @@ Os três W são uma parte opcional de uma URL que identifica um site como parte 
   ✦ [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner) - website\
   ✦ [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - extensão de navegador (Shodan informa onde o site está hospedado (país, cidade), quem possui o IP e quais outros serviços/portas estão abertos.
 
-#### Recomendação de vídeo e artigo
+#### Recomendações de vídeos e artigos
 
 * [Fábio Assolini (Kaspersky): Caçada pró-ativa às ciberameaças do e-commerce](https://youtu.be/GkunWTgUJ44)
-* [DICAS PARA SE PROTEGER DE SPAM E HACKERS - DISCORD - EN](https://discord.com/safety/360044104071-tips-against-spam-and-hacking)
+* [DICAS PARA SE PROTEGER DE SPAM E HACKERS - DISCORD](https://discord.com/safety/360044104071-tips-against-spam-and-hacking)
+* [ Fábio Akita - Sua Segurança é uma DROGA | Gerenciadores de Senhas, 2FA, Encriptação](https://youtu.be/s7ldn31OEFc)
 
 #### **Look-alike domain**
 
