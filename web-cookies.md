@@ -1,11 +1,11 @@
 # Política de cookies & Privacidade
 
-* **Última modificação:** 17/05/2022
+* **Última modificação:** 05/11/2023
 * **Efetividade:** 10/01/2019
 
 ### DEFINIÇÕES INICIAIS
 
-Por favor, leia esta política de cookies ("Política de cookies & Privacidade") cuidadosamente antes de usar o site `staralienbot.com` ("website").
+Por favor, leia esta política de cookies ("Política de cookies & Privacidade") cuidadosamente antes de usar o site `staralienbot.pages.dev` ("website").
 
 ### O QUE SÃO COOKIES?
 

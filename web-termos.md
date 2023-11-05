@@ -1,6 +1,6 @@
 # Termos de Serviço & Privacidade
 
-* **Última modificação:** 05/05/2023
+* **Última modificação:** 05/11/2023
 * **Efetividade:** 10/01/2019
 
 ## ⚖️ Art. 1º DEFINIÇÕES INICIAIS
@@ -49,7 +49,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 `1.8` ❱ Caso arrependeu-se de usar qualquer aplicação ou projeto, explique sua situação no [servidor de suporte](https://discord.gg/pAMsAaG) na DM de `!RavenaStar👽 - 367893062812434432`.
 
-`1.9` ❱ Você concorda em cumprir com as [Diretrizes da comunidade](https://staralienbot.com/diretrizes), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
+`1.9` ❱ Você concorda em cumprir com as [Diretrizes da comunidade](https://staralienbot.pages.dev/diretrizes), que é aqui incorporada por esta referência e que pode ser atualizada de tempos em tempos.
 
 `1.10` ❱ Projetos ou aplicações públicas tem nome com referência em Alien, Star, Ravena ou algo do gênero:`StarAlienBot, StarAlien, StarlineBR, Raveninha...`
 

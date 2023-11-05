@@ -16,7 +16,7 @@ Para ver um exemplo de URL, tudo o que você precisa fazer é olhar o campo de e
 
 ![](https://i.imgur.com/67Y7S9V.png)
 
-O campo mostra a URL para esta página:`https://staralienbot.com/termos`. (Seu navegador pode esconder o HTTPS até que você faça duplo clique no campo).
+O campo mostra a URL para esta página:`https://staralienbot.pages.dev/termos`. (Seu navegador pode esconder o HTTPS até que você faça duplo clique no campo).
 
 Observe que quando você clica em uma aba diferente, ela mostra uma URL diferente que se refere à página ou arquivo que você está visualizando.
 

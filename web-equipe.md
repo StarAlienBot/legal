@@ -1,6 +1,6 @@
 # Diretrizes da Staff
 
-* **Última atualização:** 05/05/2023
+* **Última atualização:** 05/11/2023
 * **Efetividade:** 10/01/2019
 
 Nossas **Diretrizes da Staff** asseguram que todos se sintam incluídos, mas não às custas de outras pessoas.\
@@ -21,4 +21,4 @@ Estas diretrizes explicam o que é e o que não é permitido na conduta da Staff
 \
 ⚖️ `R6` ❱ Respeitem a equipe de acordo com a hierarquia.\
 \
-⚖️ `R7` ❱ Respeitem os [Termos de Serviço & Privacidade](https://staralienbot.com/termos)
+⚖️ `R7` ❱ Respeitem os [Termos de Serviço & Privacidade](https://staralienbot.pages.dev/termos)
