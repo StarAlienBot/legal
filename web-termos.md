@@ -167,7 +167,7 @@ As seguintes definições são aplicáveis em conjunto com outros termos definid
 
 ## ⚖️ Art. 7º PERMISSÕES
 
-`7.1` ❱ A permissão `ADMINISTRADOR` é essencial para que `StarAlienBot` funcione corretamente e não dê problemas pro falta de permissões.
+`7.1` ❱ A permissão `ADMINISTRADOR` é essencial para que `StarAlienBot` funcione corretamente e não dê problemas por falta de permissões.
 
 `7.2` ❱ Não nós responsabilizamos caso `StarAlienBot` não consiga executar tais funções por falta de permissões. Portanto certifique que as devidas permissões estejam corretas conforme a cláusula `7.1`.
 
